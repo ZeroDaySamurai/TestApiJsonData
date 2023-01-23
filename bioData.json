@@ -1,0 +1,81 @@
+[
+    {
+        "id": 1,
+        "title": "bioTitle",
+        "href": "https://github.com/ZeroDaySamurai/testjsondatasite.github.io",
+        "image": "https://images.unsplash.com/photo-1672928988471-ea4df686586b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "bioHeading": "Bio",
+        "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+        "id" : 1,
+        "title": "milestoneTitle",
+        "date": {
+            "Internship": 2019,
+            "Freelance Job 1": 2020,
+            "Freelance Job 2": 2020,
+            "Freelance Job 3": 2021,
+            "Career Job 1": 2022,
+            "Big Project 1": 2021,
+            "Big Project 2": 2021,
+            "Big Project 3": 2023
+        },
+        "heading": {
+            "Internship": "Completed my Internship at Minds In Action",
+            "Freelance Job 1": "Stern Apartments",
+            "Freelance Job 2": "Cups Coffee Shop",
+            "Freelance Job 3": "Trees for Africa",
+            "Career Job 1": "Capricorn Group",
+            "Big Project 1": "Unreal Engine 4 First Person Shooter",
+            "Big Project 2": "Fullstack MERN Website To Learn the full development cycle of web development",
+            "Big Project 3": "Person Website"
+        },
+        "description": {
+            "Internship": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tortor id aliquet lectus proin nibh nisl.",
+            "Freelance Job 1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tortor id aliquet lectus proin nibh nisl.",
+            "Freelance Job 2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tortor id aliquet lectus proin nibh nisl.",
+            "Freelance Job 3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tortor id aliquet lectus proin nibh nisl.",
+            "Career Job 1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tortor id aliquet lectus proin nibh nisl.",
+            "Big Project 1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tortor id aliquet lectus proin nibh nisl.",
+            "Big Project 2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tortor id aliquet lectus proin nibh nisl.",
+            "Big Project 3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tortor id aliquet lectus proin nibh nisl."
+        }
+    },
+    {
+        "id": 1,
+        "title": "institutionTitle",
+        "course": " ",
+        "insitution": {
+            "institution1": {
+                "id": 1,
+                "name": "",
+                "status":""
+            },
+            "institution2": {
+                "id": 1,
+                "name": "",
+                "status":""
+            },
+            "institution3": {
+                "id": 1,
+                "name": "",
+                "status":""
+            }
+        },
+        "categories":{
+            "development": {
+
+            },
+            "devops":{
+
+            },
+            "soft skills": {
+
+            },
+            "other":{
+
+            }
+        }
+
+    }
+]
