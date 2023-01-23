@@ -1,81 +1,88 @@
-[
+export const institutes = [
     {
-        "id": 1,
-        "title": "bioTitle",
-        "href": "https://github.com/ZeroDaySamurai/testjsondatasite.github.io",
-        "image": "https://images.unsplash.com/photo-1672928988471-ea4df686586b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
-        "bioHeading": "Bio",
-        "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      short_title: "JG",
+      title: "JG Van Der Wath",
+      alt: "JG's image",
+      role: "High School Student",
+      skills: ["Grade 12"],
+      period: "2012 - 2017",
+      starting_year: "2012",
+      logo: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.-OI6GNZdSyeXiPad_jCL9QHaHZ%26pid%3DApi&f=1&ipt=a79d38e26b6710fa247e7e856891dd4de1cf3619bc50516d7eb793b47441f3b8&ipo=images",
+      url: "",
+      awards: [],
     },
     {
-        "id" : 1,
-        "title": "milestoneTitle",
-        "date": {
-            "Internship": 2019,
-            "Freelance Job 1": 2020,
-            "Freelance Job 2": 2020,
-            "Freelance Job 3": 2021,
-            "Career Job 1": 2022,
-            "Big Project 1": 2021,
-            "Big Project 2": 2021,
-            "Big Project 3": 2023
-        },
-        "heading": {
-            "Internship": "Completed my Internship at Minds In Action",
-            "Freelance Job 1": "Stern Apartments",
-            "Freelance Job 2": "Cups Coffee Shop",
-            "Freelance Job 3": "Trees for Africa",
-            "Career Job 1": "Capricorn Group",
-            "Big Project 1": "Unreal Engine 4 First Person Shooter",
-            "Big Project 2": "Fullstack MERN Website To Learn the full development cycle of web development",
-            "Big Project 3": "Person Website"
-        },
-        "description": {
-            "Internship": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tortor id aliquet lectus proin nibh nisl.",
-            "Freelance Job 1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tortor id aliquet lectus proin nibh nisl.",
-            "Freelance Job 2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tortor id aliquet lectus proin nibh nisl.",
-            "Freelance Job 3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tortor id aliquet lectus proin nibh nisl.",
-            "Career Job 1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tortor id aliquet lectus proin nibh nisl.",
-            "Big Project 1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tortor id aliquet lectus proin nibh nisl.",
-            "Big Project 2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tortor id aliquet lectus proin nibh nisl.",
-            "Big Project 3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tortor id aliquet lectus proin nibh nisl."
-        }
+      short_title: "NUST",
+      title: "Namibian University of Science and Technology",
+      alt: "NUST image",
+      role: "Bachelor's Degree in Software Engineer",
+      skills: ["computer science", "software engineering", "data structures", "web development", "artificial intelligence"],
+      period: "2018 - 2023",
+      starting_year: "2018",
+      logo: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP._lqJDGmVTDb40_BwQGSNFQAAAA%26pid%3DApi&f=1&ipt=41b8a858f671025caff5a3c88a59b27a0fa2c1342d655c4d94e7ce3d01a569f7&ipo=images",
+      url: "https://www.nust.na/",
+      awards: [],
     },
     {
-        "id": 1,
-        "title": "institutionTitle",
-        "course": " ",
-        "insitution": {
-            "institution1": {
-                "id": 1,
-                "name": "",
-                "status":""
-            },
-            "institution2": {
-                "id": 1,
-                "name": "",
-                "status":""
-            },
-            "institution3": {
-                "id": 1,
-                "name": "",
-                "status":""
-            }
-        },
-        "categories":{
-            "development": {
+        short_title: "EdX",
+        title: "EdX",
+        alt: "EdX Image",
+        role: "Certificate for Completing Introduction to Kubernetes by the Linux Foundation",
+        skills: ["devops", "kubernetes", "virtual machines", "containers"],
+        period: "2022",
+        starting_year: "2022",
+        logo: "https://robertalearns.com/wp-content/uploads/2020/05/edX_Logo_test2parallelogram_resized.png",
+        url: "https://www.edx.org/search",
+        awards: [],
+      },
+  ];
 
-            },
-            "devops":{
+  export const hobbies = [
+    {
+      title: "Codewars",
+      panel: `I enjoy spending a few minutes, sometimes hours in my day comleting a Coding Kata or two. Codewars isn't only fun but helps me grasp fundametal coding challenges I wouldn't normally face.`,
+      tags: ["Codewars", "coding", "C#"],
+    },
+    {
+      title: "Islamic Studies",
+      panel: `I am a practicing Muslim, thus I am to live my life as my prophet did, with good manners and character. I also make time to learn more about Islam and the beauty of living a more islamic lifestyle and how this plays into my day to day interactions with other people. However Islamic studies isn't as easy as open the Quran and reading but understanding the context and words are just as important, hence why I make an effort to live my religion and learn from it.`,
+      tags: ["Islam", "Muslim", "Good Manners", "Quran", "Good Character"],
+    },
+    {
+      title: "Reading and Writting",
+      panel: `I have made it a personal goal of mine to learn news skills and develop critical thinking. Thus reading a book or two a month and writing about a topic I am either interested in or learn to help solidify my knowledge about that topics. It is said that reading and writting are both critical to learn critical thinking.`,
+      tags: ["Reading", "Writing", "Critical Thinking", "Self Help", "Productivity", "Skill Development"],
+    },
+    {
+      title: "Working out",
+      panel: `As a software developer I spend alot of time infront of the screen which can lead to health issues, hence why I try to workout once or twice a day to maintain my physical health. Working out also helps me relieve stress, which in turn helps me with my mental well being.`,
+      tags: ["Fitness", "Health", "Exercise", "Stress Relief"],
+    },
+  ];
 
-            },
-            "soft skills": {
-
-            },
-            "other":{
-
-            }
-        }
-
-    }
-]
+  export const milestones = [
+    {
+        time: "2018",
+        des: `Made my first video game [FPS Unreal Engine Game]()`,
+    },
+    {
+      time: "2020",
+      des: `Internship at Minds In Action [Minds In Action](https://www.mindsinaction.com.na/)`,
+    },
+    {
+      time: "2021",
+      des: `My very first freelance Gig [Stern Apartments](https://sternapartments.com/index.html)`,
+    },
+    {
+      time: "2021",
+      des: `Completed a series of websites using different designs styles [github repos](https://github.com/ZeroDaySamurai?page=2&tab=repositories)`,
+    },
+    {
+      time: "2022",
+      des: `My first corporate software engineering job [Capricorn Group](https://www.capricorn.com.na/Pages/default.aspx)`,
+    },
+    {
+      time: "2023",
+      des: `Completed my online protfolio [Shakeel Hoosain]()`,
+    },
+  ];
