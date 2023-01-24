@@ -1,22 +1,22 @@
 [
     {
-      title: "Codewars",
-      panel: `I enjoy spending a few minutes, sometimes hours in my day comleting a Coding Kata or two. Codewars isn't only fun but helps me grasp fundametal coding challenges I wouldn't normally face.`,
-      tags: ["Codewars", "coding", "C#"],
+      "title": "Codewars",
+      "panel": "I enjoy spending a few minutes, sometimes hours in my day comleting a Coding Kata or two. Codewars isn't only fun but helps me grasp fundametal coding challenges I wouldn't normally face.",
+      "tags": ["Codewars", "coding", "C#"],
     },
     {
-      title: "Islamic Studies",
-      panel: `I am a practicing Muslim, thus I am to live my life as my prophet did, with good manners and character. I also make time to learn more about Islam and the beauty of living a more islamic lifestyle and how this plays into my day to day interactions with other people. However Islamic studies isn't as easy as open the Quran and reading but understanding the context and words are just as important, hence why I make an effort to live my religion and learn from it.`,
-      tags: ["Islam", "Muslim", "Good Manners", "Quran", "Good Character"],
+      "title": "Islamic Studies",
+      "panel": "I am a practicing Muslim, thus I am to live my life as my prophet did, with good manners and character. I also make time to learn more about Islam and the beauty of living a more islamic lifestyle and how this plays into my day to day interactions with other people. However Islamic studies isn't as easy as open the Quran and reading but understanding the context and words are just as important, hence why I make an effort to live my religion and learn from it.",
+      "tags": ["Islam", "Muslim", "Good Manners", "Quran", "Good Character"],
     },
     {
-      title: "Reading and Writting",
-      panel: `I have made it a personal goal of mine to learn news skills and develop critical thinking. Thus reading a book or two a month and writing about a topic I am either interested in or learn to help solidify my knowledge about that topics. It is said that reading and writting are both critical to learn critical thinking.`,
-      tags: ["Reading", "Writing", "Critical Thinking", "Self Help", "Productivity", "Skill Development"],
+      "title": "Reading and Writting",
+      "panel": "I have made it a personal goal of mine to learn news skills and develop critical thinking. Thus reading a book or two a month and writing about a topic I am either interested in or learn to help solidify my knowledge about that topics. It is said that reading and writting are both critical to learn critical thinking.",
+      "tags": ["Reading", "Writing", "Critical Thinking", "Self Help", "Productivity", "Skill Development"],
     },
     {
-      title: "Working out",
-      panel: `As a software developer I spend alot of time infront of the screen which can lead to health issues, hence why I try to workout once or twice a day to maintain my physical health. Working out also helps me relieve stress, which in turn helps me with my mental well being.`,
-      tags: ["Fitness", "Health", "Exercise", "Stress Relief"],
+      "title": "Working out",
+      "panel": "As a software developer I spend alot of time infront of the screen which can lead to health issues, hence why I try to workout once or twice a day to maintain my physical health. Working out also helps me relieve stress, which in turn helps me with my mental well being.",
+      "tags": ["Fitness", "Health", "Exercise", "Stress Relief"],
     },
-  ];
+]
