@@ -1,0 +1,26 @@
+[
+    {
+        time: "2018",
+        des: `Made my first video game [FPS Unreal Engine Game]()`,
+    },
+    {
+      time: "2020",
+      des: `Internship at Minds In Action [Minds In Action](https://www.mindsinaction.com.na/)`,
+    },
+    {
+      time: "2021",
+      des: `My very first freelance Gig [Stern Apartments](https://sternapartments.com/index.html)`,
+    },
+    {
+      time: "2021",
+      des: `Completed a series of websites using different designs styles [github repos](https://github.com/ZeroDaySamurai?page=2&tab=repositories)`,
+    },
+    {
+      time: "2022",
+      des: `My first corporate software engineering job [Capricorn Group](https://www.capricorn.com.na/Pages/default.aspx)`,
+    },
+    {
+      time: "2023",
+      des: `Completed my online protfolio [Shakeel Hoosain]()`,
+    },
+  ];
